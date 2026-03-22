@@ -1,0 +1,9 @@
+Tag;Description;Model;Quantity;Signal Type;Wiring Details
+PT-101;SmartLine Pressure Transmitter;Honeywell STG74S;13;Analog Input;2-wire, 4-20mA
+TT-201;iTEMP TMT71 temperature transmitter;Endress+Hauser;10;Analog Input;2-wire, 4-20mA
+TE-301;TMR31 Compact thermometer;Endress+Hauser;10;Analog Input;RTD PT100
+RE-401;RS PRO PT100 RTD Sensor;RS PRO;15;Analog Input;RTD PT100
+OX-501;Oxygen Detector;Honeywell PXCDALMO1;2;Analog Input;4-20mA
+SV-601;Solenoid Valve 3/2 way;Emerson ASCO G356C150S1V01F1;18;Digital Output;24VDC
+REL-701;Relay Interface Module;Phoenix Contact 2967060;16;Interface;24VDC Coil
+TMR-801;Time Delay Relay;Omron H3DT-A2;15;Timer;24-240VAC/DC
